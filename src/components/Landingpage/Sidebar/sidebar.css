@@ -1,0 +1,10 @@
+.sidebar{
+    width:25%;
+    background-color: #f4f5db;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 86vh;
+    box-shadow: rgba(17, 12, 46, 0.25) 10px 0 5px -2px;
+}

@@ -1,0 +1,18 @@
+.nav{
+    background-color: #0d335d;
+    width:100vw;
+    height:8vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(17, 12, 46, 0.75) 0 18px 16px -16px;
+}
+
+.nav-content{
+    font-size: 1.25rem;
+    /* border: 1px solid black; */
+    height: 2.25rem;
+    margin: 0.75rem 0 0 0 ;
+    align-items: center;
+    color: white;
+}

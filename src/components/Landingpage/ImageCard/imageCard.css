@@ -1,0 +1,13 @@
+
+.image-card{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    height:45%;
+    width: 27%;
+    /* border: 1px solid green; */
+    border-radius: 0.5rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
